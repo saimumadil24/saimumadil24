@@ -13,6 +13,5 @@
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter-handle">Twitter</a>
+  <a href="https://www.linkedin.com/in/saimumadil24/">LinkedIn</a> •
 </p>
