@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**saimumadil24/saimumadil24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a data scientist with a passion for turning data into actionable insights.
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I have experience in data analysis, machine learning, and data visualization.
+- 🌱 I'm constantly learning and staying up-to-date with the latest techniques and tools in the field.
+- 💬 Ask me about anything related to data science - I'm always happy to chat and share my knowledge.
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a> •
+  <a href="https://twitter.com/your-twitter-handle">Twitter</a>
+</p>
