@@ -1,6 +1,6 @@
 ![I am a Data Scientist](https://pbs.twimg.com/profile_banners/986792004/1685645337/1500x500)
 ### Hi there 👋,
-###My Name is Saimum Adil Khan
+### My Name is Saimum Adil Khan
 #### I am a Data Scientist
 
 As a data scientist, I'm passionate about finding patterns and insights in large, complicated data sets. I can transform data into useful insights that help firms grow and function more effectively thanks to my skills in data analysis, machine learning, and data visualization.
